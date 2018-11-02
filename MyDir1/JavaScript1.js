@@ -1,1 +1,1 @@
-﻿
+﻿alert("OutSide of git Ingnore");
